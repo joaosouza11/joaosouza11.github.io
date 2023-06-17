@@ -1,4 +1,4 @@
-#  :wave: Hi, my name is João Souza :grin: welcome to my portifolio, here you can view some of my coding projects!
+#  👋 Hi, my name is João Souza 😁 welcome to my portifolio, here you can view some of my coding projects!
 
 Website simulation for a company [BWN](joaosouza11.github.io/BWN/).
 
